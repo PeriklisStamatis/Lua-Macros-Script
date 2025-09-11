@@ -1,5 +1,5 @@
 # Lua-Macros-Script
-A small script I made in Lua for the program Lua Macros, it allows you to turn a second keyboard into a programmable macro board.
+A small script I made a while ago in Lua, for the program Lua Macros, it allows you to turn a second keyboard into a programmable macro board. The idea was inspired by a, really old at this point, Youtube video by Taran Van Hemert.
 
 First couple of lines have to do with assigning a name to the second keyboard for reference later in the code. You will have to find the appropriate device id in windows which can be a bit tricky, but once you do you're ready to go
 
